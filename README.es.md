@@ -33,7 +33,7 @@ Esa asimetría 20:1 es la idea central del proyecto: implica que el umbral ópti
 
 <img src="images/cost_curve_es.png" width="700" alt="Curva de coste según el punto de corte">
 
-<img src="images/score_distribution_es.png" width="700" alt="Morosidad real por tramo de rating">
+<img src="images/score_distribution_es.png" width="700" alt="Distribución de la puntuación crediticia">
 
 
 **Hallazgos clave**
