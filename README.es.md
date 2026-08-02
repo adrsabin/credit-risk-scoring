@@ -80,7 +80,7 @@ Transformación de PD a puntuación 300–850 (points-to-double-the-odds), segme
 ## Ejecución
 
 ```bash
-git clone https://github.com/adrsabin/credit-risk-scorecard.git
+git clone https://github.com/adrsabin/credit-risk-scoring.git
 cd credit-risk-scorecard
 pip install -r requirements.txt
 ```
