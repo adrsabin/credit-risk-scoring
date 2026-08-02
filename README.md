@@ -1,6 +1,6 @@
 [🇪🇸 Versión en español](README.es.md)
 
-#Risk Credit Scoring
+##Risk Credit Scoring
 
 A credit scoring project that goes from raw loan applications to a **scorecard** and a **lending policy calibrated in euros**.
 
