@@ -81,7 +81,7 @@ PD converted to a 300–850 score (points-to-double-the-odds), segmentation into
 ## Running it
 
 ```bash
-git clone https://github.com/adrsabin/credit-risk-scorecard.git
+git clone https://github.com/adrsabin/credit-risk-scoring.git
 cd credit-risk-scorecard
 pip install -r requirements.txt
 ```
