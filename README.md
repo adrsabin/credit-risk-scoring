@@ -35,7 +35,7 @@ That 20:1 asymmetry is the core idea of the project: it means the optimal cut-of
 
 <img src="images/cost_curve.png" width="700" alt="Total cost by decision cut-off">
 
-<img src="images/score_distribution.png" width="700" alt="Observed delinquency by rating band">
+<img src="images/score_distribution.png" width="700" alt="Credit score distribution across the portfolio">
 
 **Key findings**
 
