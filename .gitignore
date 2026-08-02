@@ -1,0 +1,14 @@
+
+# Artefactos generados por los notebooks
+data/*.parquet
+data/*.pkl
+data/*.npy
+data/politica.json
+
+# Caché
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
